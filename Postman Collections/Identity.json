@@ -20,6 +20,18 @@
 						"url": "/ims/api/signup"
 					},
 					"response": []
+				},
+				{
+					"name": "New Request",
+					"id": "78a15508-9ba7-459c-876b-cd0d1bc682f2",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
 				}
 			],
 			"id": "c1efd221-d311-4942-aa9e-a39cedf511df"
