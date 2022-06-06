@@ -16,7 +16,8 @@
 					},
 					"request": {
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": "/ims/api/signup"
 					},
 					"response": []
 				}
