@@ -22,7 +22,7 @@
 					"response": []
 				},
 				{
-					"name": "New Request",
+					"name": "login",
 					"id": "78a15508-9ba7-459c-876b-cd0d1bc682f2",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
